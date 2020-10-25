@@ -33,6 +33,7 @@ $ python src/main.py
 
 ### Wireframes
 
+![Collaborations](docs/Wireframes/Collaborationsmobile.png)
 
 
 

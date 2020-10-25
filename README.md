@@ -35,6 +35,9 @@ $ python src/main.py
 
 ![Collaborations](docs/Wireframes/Collaborationsmobile.png)
 
+![Collaborations](docs/Wireframes/Collaborations.png)
+
+
 
 
 
